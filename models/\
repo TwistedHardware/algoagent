@@ -1,0 +1,13 @@
+package models
+
+import (
+	"github.com/uadmin/uadmin"
+)
+
+type DataSource struct {
+	uadmin.Model
+	Name string
+	URL string
+	Username string
+	Password string
+}

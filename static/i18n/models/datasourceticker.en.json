@@ -1,0 +1,33 @@
+{
+  "display_name": "Data Source Ticker",
+  "fields": {
+    "DataSource": {
+      "display_name": "Data Source",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "ID": {
+      "display_name": "ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Symbol": {
+      "display_name": "Symbol",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Ticker": {
+      "display_name": "Ticker",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    }
+  }
+}

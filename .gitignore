@@ -1,0 +1,6 @@
+.database
+.salt
+.key
+algoagent
+uadmin.db
+*.swp
