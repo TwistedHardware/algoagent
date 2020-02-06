@@ -1,8 +1,8 @@
 .database
 .salt
 .key
-./algoagent
+/algoagent
 uadmin.db
 *.swp
-./media/
-./data/
+/media/
+/data/
